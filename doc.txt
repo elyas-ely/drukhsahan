@@ -1,0 +1,22 @@
+1: sesion must be removed after a new device sign in the same account
+
+
+
+
+ ============================================================
+ AUTH
+ ============================================================
+
+
+ input must be lowercase
+ text direction must be left
+
+
+ ===========================================================
+ papular card sizes
+ do not show social media if the link are empty
+ moreMenu item shoul have enable and disable status
+ if favorite posts is empty, shoul have an icon
+ if the the menue item called successfully it should close the model
+ add loader to the moremenu item when it's called
+ making the slider of the create post good

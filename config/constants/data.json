@@ -1,0 +1,303 @@
+{
+  "engines": [
+    "د داخلي احتراق ماشین",
+    "بریښنایی موټر",
+    "ټربو جیټ انجن",
+    "ټربوپروپ انجن",
+    "د بخار ماشین",
+    "وانکل روټري انجن",
+    "راکیټ انجن",
+    "سټیرلینګ انجن",
+    "ریډیال انجن",
+    "وی ټوین انجن"
+  ],
+  "years": [
+    "1990",
+    "1991",
+    "1992",
+    "1993",
+    "1994",
+    "1995",
+    "1996",
+    "1997",
+    "1998",
+    "1999",
+    "2000",
+    "2001",
+    "2002",
+    "2003",
+    "2004",
+    "2005",
+    "2006",
+    "2007",
+    "2008",
+    "2009",
+    "2010",
+    "2011",
+    "2012",
+    "2013",
+    "2014",
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "notifications": [
+    {
+      "type": "Success",
+      "title": "اپلیکیشن په اړه",
+      "description": "موږ دا اعلان کوو که جیری چا د میاشتی پیسی تحویل کړی نه وی نو د هغه پوسټونه به "
+    },
+    {
+      "type": "Info",
+      "title": "پیسو تحویل",
+      "description": "مموږ دا اعلان کوو که جیری چا  تحویل کړی نه وی نو د هغه پوسټونه به "
+    },
+    {
+      "type": "Warning",
+      "title": "پیسو په اړه",
+      "description": "موږ دا اعلان کوو که جیری چا د میاشتی د پوره کیدو سره تحویل کړی نه وی نو د هغه پوسټونه به "
+    }
+  ],
+  "carColors": [
+    {
+      "name": "تور",
+      "colorCode": "#000000"
+    },
+    {
+      "name": "سپین",
+      "colorCode": "#FFFFFF"
+    },
+    {
+      "name": "سور",
+      "colorCode": "#FF0000"
+    },
+    {
+      "name": "شین",
+      "colorCode": "#008000"
+    },
+    {
+      "name": "آبي",
+      "colorCode": "#0000FF"
+    },
+    {
+      "name": "خړ",
+      "colorCode": "#808080"
+    },
+    {
+      "name": "نارنجي",
+      "colorCode": "#FFA500"
+    },
+    {
+      "name": "ژړ",
+      "colorCode": "#FFFF00"
+    },
+    {
+      "name": "نسواري",
+      "colorCode": "#A52A2A"
+    },
+    {
+      "name": "ګلابي",
+      "colorCode": "#FFC0CB"
+    },
+    {
+      "name": "نیلي",
+      "colorCode": "#4682B4"
+    },
+    {
+      "name": "زرغون",
+      "colorCode": "#9ACD32"
+    },
+    {
+      "name": "ارغواني",
+      "colorCode": "#800080"
+    },
+    {
+      "name": "شوکولاتي",
+      "colorCode": "#D2691E"
+    },
+    {
+      "name": "سمندري",
+      "colorCode": "#2E8B57"
+    },
+    {
+      "name": "خړ شين",
+      "colorCode": "#708090"
+    },
+    {
+      "name": "پټه",
+      "colorCode": "#C0C0C0"
+    },
+    {
+      "name": "نسواري زېري",
+      "colorCode": "#DAA520"
+    },
+    {
+      "name": "ګلابي سري",
+      "colorCode": "#FF69B4"
+    },
+    {
+      "name": "لمرۍ ژېړ",
+      "colorCode": "#FFD700"
+    },
+    {
+      "name": "مرمۍ شین",
+      "colorCode": "#556B2F"
+    },
+    {
+      "name": "ژړ زرغون",
+      "colorCode": "#BDB76B"
+    },
+    {
+      "name": "سربی",
+      "colorCode": "#B0C4DE"
+    },
+    {
+      "name": "روښانه نارنجي",
+      "colorCode": "#FF4500"
+    },
+    {
+      "name": "سپک خړ",
+      "colorCode": "#D3D3D3"
+    }
+  ],
+  "cars": [
+    {
+      "id": 1,
+      "name": "امریکایی فراری",
+      "description": "کورولا ژړه یو موډرن او پرمختللی موټر دی چې د ډیزل انجن لري. دغه موټر د څلورو کسانو لپاره ځای لري او د لیور ترانسميشن سره عرضه کیږي. دا موټر د ښار دننه او بهر دواړو لپاره مناسب دی، ځکه چې دا تر 280 کیلومتره په ساعت کې سرعت ترلاسه کولی شي. FWD سیستم یې دې موټر ته ښه موټر تګ او د سړک په برابره کولو کې مرسته کوي.",
+      "price": "2400",
+      "likes": 385,
+      "images": [
+        "https://ymimg1.b8cdn.com/uploads/article/5197/pictures/3736974/listing_main_Bugatti_Chiron__1_.jpg",
+        "https://assets.newatlas.com/dims4/default/be2e593/2147483647/strip/true/crop/1617x1078+0+1/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Farchive%2Ffastest-cars-2016-top-ten-141.jpg",
+        "https://autojosh.com/wp-content/uploads/2024/06/2026_bugatti_tourbillon_hypercar_autojosh_7-560x400.jpg"
+      ],
+      "specifications": {
+        "transmission": "اتوماتیک",
+        "drive": "AWD",
+        "model": "2024",
+        "engine": "V8",
+        "speed": "350/h",
+        "fuelType": "پټرول",
+        "seats": 2
+      },
+      "organization": {
+        "name": "صلاح الدین موټرانو شورم",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQREwJcNf4M2p2oxeCBtOlYtv3-iH4qf5B-hA&s"
+      },
+      "postedTime": "۱۰ دقیفی مخکی"
+    },
+    {
+      "id": 2,
+      "name": "جاپانی فیلډر",
+      "description": "کورولا ژړه یو موډرن او پرمختللی موټر دی چې د ډیزل انجن لري. دغه موټر د څلورو کسانو لپاره ځای لري او د لیور ترانسميشن سره عرضه کیږي. دا موټر د ښار دننه او بهر دواړو لپاره مناسب دی، ځکه چې دا تر 280 کیلومتره په ساعت کې سرعت ترلاسه کولی شي. FWD سیستم یې دې موټر ته ښه موټر تګ او د سړک په برابره کولو کې مرسته کوي.",
+      "price": "5400",
+      "likes": 340,
+      "seats": 4,
+      "specifications": {
+        "transmission": "لیور",
+        "drive": "FWD",
+        "model": "2023",
+        "engine": "V6",
+        "speed": "280/h",
+        "fuelType": "ډیزل"
+      },
+      "images": [
+        "https://media.wired.com/photos/592675f6cefba457b079a0cd/master/pass/SCG003S-FRONTTA.jpg",
+        "https://static1.hotcarsimages.com/wordpress/wp-content/uploads/2020/10/Lamborghini-Terzo-Millennio-e1602027383953.jpg",
+        "https://mycarheaven.com/wp-content/uploads/2023/12/AI_10_year_car_exter-500x500.webp"
+      ],
+      "organization": {
+        "name": "ګل ګلاب د موټرانو شورم",
+        "image": "https://www.palmbeachpost.com/gcdn/-mm-/573c6b84efd4edd43dd310d508e33aa8bfb8234d/c=0-378-4032-2646/local/-/media/2020/08/17/PalmBeachPost/ghows-LK-200319323-e5467f67.jpg?width=660&height=372&fit=crop&format=pjpg&auto=webp"
+      },
+      "postedTime": "۱ ورځ تر مخه"
+    },
+    {
+      "id": 3,
+      "images": [
+        "https://i.pinimg.com/736x/d2/6d/2a/d26d2aab2ff63cb48b3a91b0e8e0aa55.jpg",
+        "https://i.ytimg.com/vi/z5I-7aXAHf8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA_AGNnyfRJ_NAbr3teOAa47W8N-A",
+        "https://images.cars.com/cldstatic/wp-content/uploads/lamborghini-sian--01-angle--exterior--front--green.jpg"
+      ],
+      "name": "مرسډیز بینز",
+      "description": "مرسډیز بینز د لوکس او پرمختللي موټرونو یو عالي مثال دی. دغه موټر د پټرول انجن لري چې کولی شي تر 300 کیلومتره په ساعت کې سرعت ترلاسه کړي. دا موټر د اتوماتیک ترانسميشن سره عرضه کیږي او د شاته څرخونو موټرو په توګه چلوي، چې دې ته په سړکونو کې ښه ګړندی تګ ورکوي. دغه موټر د پنځو کسانو لپاره ځای لري او د اوږدو سفرونو لپاره مناسب دی.",
+      "price": "2300",
+      "likes": 200,
+      "specifications": {
+        "transmission": "اتوماتیک",
+        "drive": "RWD",
+        "model": "2024",
+        "engine": "V12",
+        "speed": "300/h",
+        "fuelType": "پټرول",
+        "seats": 5
+      },
+      "organization": {
+        "name": "ارمان د موټرانو شورم",
+        "image": "https://www.toomeymotorgroup.co.uk/images/offers/946-mobile.jpg?v=1691148683"
+      },
+      "postedTime": "۲ میاشتی تر مخه"
+    },
+    {
+      "id": 4,
+      "name": "بوګاټی سپینه",
+      "description": "سره پوکاتی یو اسپورټي او ځواکمن موټر دی چې د سرعت او ځواک په برخه کې ځانګړی دی. دغه موټر د پټرول انجن لري چې کولی شي تر 320 کیلومتره په ساعت کې سرعت ترلاسه کړي. دا موټر د دوه کسانو لپاره ځای لري او د لیور ترانسميشن سره عرضه کیږي، چې دې ته په هر ډول سړکونو کې ښه ګړندی تګ ورکوي. RWD سیستم یې دې موټر ته غوره موټرتګ ورکوي.",
+      "price": "1500",
+      "likes": 100,
+      "specifications": {
+        "transmission": "لیور",
+        "drive": "RWD",
+        "model": "2022",
+        "engine": "V8",
+        "speed": "320/h",
+        "fuelType": "پټرول",
+        "seats": 2
+      },
+      "images": [
+        "https://i.pinimg.com/736x/f4/62/d6/f462d6974bc5d34b1590334f46fe31ba.jpg",
+        "https://www.motorbiscuit.com/wp-content/uploads/2023/04/Pagani-Huayra-Imola.jpg?w=1024&h=638&strip=all&quality=89",
+        "https://media.licdn.com/dms/image/C4E22AQF2sdGvqWFRhg/feedshare-shrink_800/0/1669929753200?e=2147483647&v=beta&t=wY-XNPQhSemq9Gg9iw58puNA6N0S4TsntguWr88NfyY"
+      ],
+      "organization": {
+        "name": "صدیق اتل د موټرانو شورم",
+        "image": "https://thenewswheel.com/wp-content/uploads/2017/09/TeslaMotorsYorkdale5.jpg"
+      },
+      "postedTime": "۵ کاله تر مخه"
+    },
+    {
+      "id": 5,
+      "name": "توره کورلا",
+      "description": "تور فیلډر یو ځواکمن او مستحکم موټر دی چې د ډیزل انجن لري. دغه موټر د څلورو کسانو لپاره ځای لري او په اتوماتیک ډول سره چلوي، چې دا د موډرن او پرمختللي موټرونو یو ښه مثال دی. AWD سیستم یې دې موټر ته په هر ډول سړکونو کې ښه ګړندی تګ ورکوي، او کولی شي تر 330 کیلومتره په ساعت کې سرعت ترلاسه کړي.",
+      "price": "3400",
+      "likes": 385,
+      "images": [
+        "https://static1.hotcarsimages.com/wordpress/wp-content/uploads/2020/08/2003-Ferrari-Enzo-2.jpg",
+        "https://i.kinja-img.com/image/upload/c_fit,q_60,w_645/92a94b63ba941dc9832cd400d7c23d27.jpg",
+        "https://ymimg1.b8cdn.com/uploads/article/5197/pictures/3736979/listing_main_Ferrari_LaFerrari__1_.jpg"
+      ],
+      "specifications": {
+        "transmission": "اتوماتیک",
+        "drive": "AWD",
+        "model": "2023",
+        "engine": "V8",
+        "speed": "330/h",
+        "fuelType": "ډیزل",
+        "seats": 4
+      },
+      "organization": {
+        "name": "اففان د موټرانو شورم",
+        "image": "https://www.palmbeachpost.com/gcdn/-mm-/573c6b84efd4edd43dd310d508e33aa8bfb8234d/c=0-378-4032-2646/local/-/media/2020/08/17/PalmBeachPost/ghows-LK-200319323-e5467f67.jpg?width=660&height=372&fit=crop&format=pjpg&auto=webp"
+      },
+      "postedTime": "۵ هفتی ترمخه"
+    }
+  ]
+}
